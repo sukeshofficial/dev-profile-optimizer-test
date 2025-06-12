@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+python-dotenv
+PyGithub
+pdfkit
+reportlab
+weasyprint
+authlib
+pytest
